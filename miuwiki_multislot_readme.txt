@@ -1,0 +1,17 @@
+1."weapon_smg",						    // UZI微冲
+2."weapon_smg_mp5",					    // MP5
+3."weapon_smg_silenced",				// MAC微冲
+4."weapon_pumpshotgun",				    // 木喷
+5."weapon_shotgun_chrome",			    // 铁喷
+6."weapon_rifle",						// M16步枪
+7."weapon_rifle_desert",				// 三连步枪
+8."weapon_rifle_ak47",				    // AK47
+9."weapon_rifle_sg552",				    // SG552
+10."weapon_autoshotgun",				// 一代连喷
+11."weapon_shotgun_spas",				// 二代连喷
+12."weapon_hunting_rifle",				// 木狙
+13."weapon_sniper_military",			// 军狙
+14."weapon_sniper_scout",				// 鸟狙
+15."weapon_sniper_awp",				    // AWP
+16."weapon_rifle_m60",					// M60
+17."weapon_grenade_launcher"			// 榴弹发射器
